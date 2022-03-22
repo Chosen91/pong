@@ -30,7 +30,7 @@ let playerPaddleYPosition = 100;
 let playerPaddleYVelocity = 5;
 
 
-// Above the update() funciton, create variables to store the ball's x-position, y-position, x-velocity, and y-velocity
+// Above the update() function, create variables to store the ball's x-position, y-position, x-velocity, and y-velocity
 let ballYPosition = 250;
 let ballXPosition = 350;
 
